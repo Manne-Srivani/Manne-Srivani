@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Manne-Srivani/count.svg" alt="Profile Views" />
+</div>
 
-<!--
-**Manne-Srivani/Manne-Srivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Manne Srivani 👋
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+End-to-End+Applications;React+%2F+Next.js+%2F+Node.js" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+I am a driven **Full Stack Developer** with a passion for crafting seamless, responsive, and dynamic user interfaces. With a strong foundation in frontend development and deep insight into backend architectures, I excel at bridging high-performance server logic with clean, intuitive user experiences. I thrive on building interactive applications that are robust, scalable, and efficient.
+
+*   💼 Currently working as a developer at **Mr Chams Pvt Ltd**.
+*   💻 Building modern UI workflows using **React, Next.js, HTML5, CSS3, and JavaScript**.
+*   ⚙️ Engineering secure RESTful APIs using **Node.js, Express, Django, and Java**.
+*   🗄️ Deep integration experience with **MySQL** database optimization and caching with **Redis**.
+*   🎓 Hold an **M.Sc. in Computer Science** with solid fundamentals in Data Structures and Algorithms.
+
+---
+
+### 💻 Tech Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Databases & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+---
+
+### 🛠️ Featured Projects / Current Focus
+<!-- Quick, high-impact section for recruiters. Replace text inside brackets with actual project links/names -->
+*   **[Project Name 1]** - A full-stack web application built using Next.js, Node.js, and MySQL. Optimized queries to reduce server response time by 30%.
+*   **[Project Name 2]** - A responsive, interactive dashboard featuring real-time data streaming utilizing React and Redis caching.
+
+---
+
+### 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manne-Srivani&show_icons=true&theme=tokyonight&count_private=true" alt="Srivani's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manne-Srivani&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manne-Srivani&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manne-Srivani&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mannesrivani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mannesrivani1606@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Crafting seamless frontends, scaling robust backends. Building the complete web experience."</i>
+</div>
