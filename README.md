@@ -2,7 +2,7 @@
   <img src="https://profile-counter.glitch.me/Manne-Srivani/count.svg" alt="Profile Views" />
 </div>
 
-# Hi there, I'm Manne Srivani 👋
+# Hi there, I'm Srivani Manne 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+End-to-End+Applications;React+%2F+Next.js+%2F+Node.js" alt="Typing SVG" />
@@ -12,13 +12,13 @@
 
 ### 🚀 About Me
 
-I am a driven **Full Stack Developer** with a passion for crafting seamless, responsive, and dynamic user interfaces. With a strong foundation in frontend development and deep insight into backend architectures, I excel at bridging high-performance server logic with clean, intuitive user experiences. I thrive on building interactive applications that are robust, scalable, and efficient.
+I am a driven **Full Stack Developer** with a strong foundation in building responsive interfaces, integrating APIs, and working on complete end-to-end web applications. With a solid understanding of frontend ecosystems and backend logic in Python and Java, I excel at crafting clean, reusable UI workflows that offer seamless user experiences and robust performance. 
 
-*   💼 Currently working as a developer at **Mr Chams Pvt Ltd**.
-*   💻 Building modern UI workflows using **React, Next.js, HTML5, CSS3, and JavaScript**.
-*   ⚙️ Engineering secure RESTful APIs using **Node.js, Express, Django, and Java**.
-*   🗄️ Deep integration experience with **MySQL** database optimization and caching with **Redis**.
-*   🎓 Hold an **M.Sc. in Computer Science** with solid fundamentals in Data Structures and Algorithms.
+* 💼 Currently working as a **Frontend Developer / Software Test Engineer** at **Mr Chams Pvt Ltd**.
+* 💻 Building modern UI workflows and scalable layouts using **React.js, Next.js, and JavaScript (ES6+)**.
+* ⚙️ Integrating secure **REST APIs** and managing dynamic UI data rendering.
+* 📊 Experienced in both development and testing workflows, including automation with **Selenium WebDriver**.
+* 🎓 Hold an **M.Sc. in Computer Science** with a strong grasp of Data Structures, OOP, and software quality assurance.
 
 ---
 
@@ -27,16 +27,23 @@ I am a driven **Full Stack Developer** with a passion for crafting seamless, res
 | Layer | Technologies |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Databases & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Backend & Databases** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Testing & Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-CB1814?style=flat-square&logo=testng&logoColor=white) |
+| **Tools & Concepts** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
 
-### 🛠️ Featured Projects / Current Focus
-<!-- Quick, high-impact section for recruiters. Replace text inside brackets with actual project links/names -->
-*   **[Project Name 1]** - A full-stack web application built using Next.js, Node.js, and MySQL. Optimized queries to reduce server response time by 30%.
-*   **[Project Name 2]** - A responsive, interactive dashboard featuring real-time data streaming utilizing React and Redis caching.
+### 🛠️ Featured Projects
+
+* **YUVA Team (Social Organization Website)** * Developing a full-stack platform using HTML, CSS, JavaScript, and Python.
+    * Currently migrating the core infrastructure to React.js and Next.js to significantly boost UI rendering optimization, scalability, and implement dynamic routing.
+* **Online Project Management System**
+    * Engineered responsive frontend tracking dashboards and user authentication features.
+    * Handled secure backend integration using Java, JSP, and MySQL to streamline workflow visibility.
+* **Task Manager Web Application**
+    * Built a responsive task manager featuring full CRUD functionality, utilizing state management to update the UI components dynamically.
+* **Multi-Counter Bank Queue System**
+    * Programmed a core structural simulation utilizing custom Data Structures to dynamically assign incoming customers to open counter slots using efficient enqueue and dequeue patterns.
 
 ---
 
@@ -63,11 +70,11 @@ I am a driven **Full Stack Developer** with a passion for crafting seamless, res
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mannesrivani/" target="_blank">
+  <a href="https://www.linkedin.com/in/mannesrivani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/Manne-Srivani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:mannesrivani1606@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
