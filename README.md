@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Manne-Srivani/count.svg" alt="Profile Views" />
-</div>
-
 # Hi there, I'm Srivani Manne 👋
 
 <div align="center">
@@ -35,7 +31,8 @@ I am a driven **Full Stack Developer** with a strong foundation in building resp
 
 ### 🛠️ Featured Projects
 
-* **YUVA Team (Social Organization Website)** * Developing a full-stack platform using HTML, CSS, JavaScript, and Python.
+* **YUVA Team (Social Organization Website)** 
+    * Developing a full-stack platform using HTML, CSS, JavaScript, and Python.
     * Currently migrating the core infrastructure to React.js and Next.js to significantly boost UI rendering optimization, scalability, and implement dynamic routing.
 * **Online Project Management System**
     * Engineered responsive frontend tracking dashboards and user authentication features.
@@ -56,13 +53,6 @@ I am a driven **Full Stack Developer** with a strong foundation in building resp
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manne-Srivani&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manne-Srivani&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
