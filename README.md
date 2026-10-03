@@ -18,22 +18,20 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>👨‍💻 About Me</h3>
-      I am a driven <b>Full Stack Developer</b> with a strong foundation in building responsive interfaces, integrating APIs, and working on complete end-to-end web applications. I excel at crafting clean, reusable UI workflows that offer seamless user experiences and robust performance.<br/><br/>
-      🏢 Currently working as a <b>Frontend Developer / Software Test Engineer</b> at <b>Mr Chams Pvt Ltd</b>.<br/>
-      💻 Building modern UI workflows and scalable layouts using <b>React.js, Next.js, and JavaScript (ES6+)</b>.<br/>
-      ⚙️ Integrating secure <b>REST APIs</b> and managing dynamic UI data rendering.<br/>
-      📊 Experienced in development and testing workflows, including automation with <b>Selenium WebDriver</b>.<br/>
-      🎓 Hold an <b>M.Sc. in Computer Science</b> with a strong grasp of Data Structures, OOP, and QA.
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="3D isometric coding animation" width="100%" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="3D isometric coding animation" width="380" />
+
+I am a driven **Full Stack Developer** with a strong foundation in building responsive interfaces, integrating APIs, and working on complete end-to-end web applications. I excel at crafting clean, reusable UI workflows that offer seamless user experiences and robust performance.
+
+- 🏢 Currently working as a **Frontend Developer / Software Test Engineer** at **Mr Chams Pvt Ltd**.
+- 💻 Building modern UI workflows and scalable layouts using **React.js, Next.js, and JavaScript (ES6+)**.
+- ⚙️ Integrating secure **REST APIs** and managing dynamic UI data rendering.
+- 📊 Experienced in development and testing workflows, including automation with **Selenium WebDriver**.
+- 🎓 Hold an **M.Sc. in Computer Science** with a strong grasp of Data Structures, OOP, and QA.
+
+<br clear="both"/>
+<br/>
 
 ---
 
