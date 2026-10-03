@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="3D isometric coding animation" width="380" />
+<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" alt="3D floating macbook animation" width="380" />
 
 I am a driven **Full Stack Developer** with a strong foundation in building responsive interfaces, integrating APIs, and working on complete end-to-end web applications. I excel at crafting clean, reusable UI workflows that offer seamless user experiences and robust performance.
 
