@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Srivani!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20End-to-End%20Web%20Applications&descAlignY=55&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Srivani!%20👋&fontSize=50&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20End-to-End%20Web%20Applications&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -17,6 +17,9 @@
 <br/>
 
 ## 🚀 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="3D isometric coding animation" width="380" />
+
 I am a driven **Full Stack Developer** with a strong foundation in building responsive interfaces, integrating APIs, and working on complete end-to-end web applications. I excel at crafting clean, reusable UI workflows that offer seamless user experiences and robust performance.
 
 - 💼 Currently working as a **Frontend Developer / Software Test Engineer** at **Mr Chams Pvt Ltd**.
@@ -24,6 +27,9 @@ I am a driven **Full Stack Developer** with a strong foundation in building resp
 - ⚙️ Integrating secure **REST APIs** and managing dynamic UI data rendering.
 - 📊 Experienced in development and testing workflows, including automation with **Selenium WebDriver**.
 - 🎓 Hold an **M.Sc. in Computer Science** with a strong grasp of Data Structures, OOP, and QA.
+
+<br clear="both"/>
+<br/>
 
 ---
 
@@ -44,21 +50,15 @@ I am a driven **Full Stack Developer** with a strong foundation in building resp
 
 ## 🛠️ Featured Projects
 
-### 🌐 YUVA Team (Social Organization Website)
-* **Tech:** React.js, Next.js, HTML, CSS, JavaScript, Python
-* **Impact:** Developing a full-stack platform and migrating the core infrastructure to React/Next.js to significantly boost UI rendering optimization, scalability, and implement dynamic routing.
+| 🌐 YUVA Team (Social Organization Website) | 📋 Online Project Management System |
+| :--- | :--- |
+| **Tech:** React.js, Next.js, HTML, CSS, JavaScript, Python | **Tech:** Java, JSP, MySQL |
+| Developing a full-stack platform and migrating the core infrastructure to React/Next.js to significantly boost UI rendering optimization, scalability, and implement dynamic routing. | Engineered responsive frontend tracking dashboards and user authentication features. Handled secure backend integration to streamline workflow visibility. |
 
-### 📋 Online Project Management System
-* **Tech:** Java, JSP, MySQL
-* **Impact:** Engineered responsive frontend tracking dashboards and user authentication features. Handled secure backend integration to streamline workflow visibility.
-
-### ✅ Task Manager Web Application
-* **Tech:** Frontend state management
-* **Impact:** Built a responsive task manager featuring full CRUD functionality, utilizing state management to update the UI components dynamically.
-
-### 🏦 Multi-Counter Bank Queue System
-* **Tech:** Core Data Structures
-* **Impact:** Programmed a core structural simulation utilizing custom Data Structures to dynamically assign incoming customers to open counter slots using efficient enqueue and dequeue patterns.
+| ✅ Task Manager Web Application | 🏦 Multi-Counter Bank Queue System |
+| :--- | :--- |
+| **Tech:** Frontend state management | **Tech:** Core Data Structures |
+| Built a responsive task manager featuring full CRUD functionality, utilizing state management to update the UI components dynamically. | Programmed a core structural simulation utilizing custom Data Structures to dynamically assign incoming customers to open counter slots using efficient enqueue and dequeue patterns. |
 
 ---
 
