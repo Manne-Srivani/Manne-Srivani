@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="54" viewBox="0 0 210 54" role="img">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b17"/><stop offset="1" stop-color="#131a35"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+
+</defs>
+<style>
+text{font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif}
+.m{font-family:'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace}
+
+</style>
+<rect x="1" y="1" width="208" height="52" rx="27" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="207" height="51" rx="26" fill="none" stroke="#60a5fa" stroke-width="1.6" stroke-dasharray="60 40"><animate attributeName="stroke-dashoffset" values="0;-200" dur="4s" repeatCount="indefinite"/></rect>
+<circle cx="34" cy="27" r="6" fill="#60a5fa"><animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="112" y="33" text-anchor="middle" font-size="16" font-weight="700" fill="#f1f5f9" letter-spacing="1">LinkedIn</text>
+</svg>
